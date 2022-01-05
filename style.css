@@ -33,3 +33,13 @@ section{
     padding-right: 0;
     padding-left: 40%;
 }
+.three-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-left: 25px;
+    margin-top: 10px;
+    color: white;
+    background-image: linear-gradient(black,gray);
+}
