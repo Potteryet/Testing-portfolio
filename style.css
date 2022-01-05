@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/potter-eye-bg.png);
+    color: white;
+    
+}
+.one-color{
+    color: rgb(105,105,105);
+}
+h1{
+    font-size: 70px;
+    margin-top: 95px;
+    margin-left: 25px;
+    font-weight:900 ;
+}
+h3{
+    margin-left: 25px;
+
+}
+p{
+    margin-left: 25px;
+}
+section{
+    display: flex;
+}
+.two-settledown{
+    width: 35%;
+}
+.two-settledown img{
+    width: 220%;
+    margin-top: 180px;
+    margin-right: 0;
+    padding-right: 0;
+    padding-left: 40%;
+}
